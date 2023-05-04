@@ -158,7 +158,7 @@ export const testimonials = [
     },
     {
         id: 2,
-        name: "Daniel Rio",
+        name: "Shivtej Rio",
         quote: "I have trained at Fitness Within for over 3 years.  When I was diagnosed with cancer a year after joining FW. Everyone connected to FW (owners, trainers, fellow clients) supported me through treatment and warmly welcomed me back when I got the ok from my medical team. Through 1:1 and small group training I have regained my strength and confidence. I feel healthy & strong again.  I find the workouts always motivating & challenging, different workouts every day and the trainers are fantastic!  I love that everyone knows each other's names and motivates each other. It truly is a fitfam!",
         job: "Software Eng",
         avatar: require("./images/avatar2.jpg")
@@ -278,7 +278,7 @@ export const trainers = [
     {
         id: 1,
         image: Trainer1,
-        name: 'John Doe',
+        name: 'shivtej Doe',
         job: 'Aerobic Trainer',
         socials: ['https://instagram.com/', 'https://twitter.com/', 'https://facebook.com/', 'https://linkedin.com/']
     },
